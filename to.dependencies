@@ -6,8 +6,8 @@
     "revision": "cm-12.1"
   },
   {
-    "remote": "cm",
-    "repository": "android_device_motorola_omap4-common",
+    "remote": "gh",
+    "repository": "Oggie7797/android_device_motorola_omap4-common",
     "target_path": "device/motorola/omap4-common",
     "revision": "cm-12.1"
   },
