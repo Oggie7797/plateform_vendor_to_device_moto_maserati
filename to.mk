@@ -2,7 +2,7 @@
 $(call inherit-product, device/motorola/maserati/full_maserati.mk)
 
 # Inherit some common TO stuff.
-$(call inherit-product, vendor/to/config/common_full_phone.mk)
+$(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 #
 # Setup device specific product configuration.
